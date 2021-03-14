@@ -11,7 +11,7 @@ cd .
 mvn clean package
 
 --usage
-  -toDir save your jars' decompiled file
+  --toDir save your jars' decompiled file
 ```
 
 # Example

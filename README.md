@@ -18,3 +18,4 @@ mvn clean package
 ```shell
 java -jar jc-0.0.1-SNAPSHOT.jar --toDir /your_jars_dir
 ```
+
